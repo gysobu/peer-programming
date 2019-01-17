@@ -1,3 +1,4 @@
+DROP TABLE author,category,blog,comments;
 
 CREATE TABLE author(
     id SERIAL PRIMARY KEY,
